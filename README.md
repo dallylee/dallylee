@@ -1,6 +1,4 @@
-# Daniel (Dali)
-
-**Hi, I'm Daniel (Dali). Senior TS/JS Engineer. Focused on FinTech transparency, spatial logic, and autonomous infra.**
+**Hi, I'm Dali. Senior TS/JS Engineer. Focused on FinTech transparency, spatial logic, and autonomous infra.**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
